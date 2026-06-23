@@ -1,8 +1,8 @@
 class Sasurahime < Formula
   desc "macOS developer cache cleaner"
   homepage "https://github.com/armaniacs/sasurahime"
-  url "https://github.com/armaniacs/sasurahime/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "e5ecce30e51db85b92da812c6ac18c99e4be09ba301f3856b94a97115c8cf206"
+  url "https://github.com/armaniacs/sasurahime/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "a85f99d7f0d12b1b66bd01c515e7b3e77c851bbfe5eae6d86af7f4a92dd1d845"
   license "Apache-2.0"
 
   depends_on "rust" => :build
